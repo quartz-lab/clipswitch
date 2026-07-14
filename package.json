@@ -1,0 +1,17 @@
+{
+  "name": "com.quartzlab.clipswitch",
+  "version": "1.0.0",
+  "displayName": "ClipSwitch",
+  "description": "Production audio replacement workbench with deferred batch selection, cross-format replacement, realtime processing, visual history and English/Russian UI.",
+  "unity": "2022.3",
+  "keywords": [
+    "audio",
+    "editor",
+    "replacement",
+    "waveform",
+    "sound"
+  ],
+  "author": {
+    "name": "QuartzLab"
+  }
+}
